@@ -35,7 +35,8 @@ Nick Moles 50
   <body>
   <p> Here's an example of some inline html code.</p>
   </body>
-  </html>```
+  </html>
+  ```
 
 
   Here's a screenshot of the text editor (added after uploaded to github):
