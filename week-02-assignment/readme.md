@@ -40,6 +40,7 @@ Nick Moles 50
 
 
   Here's a screenshot of the text editor (added after uploaded to github):
+  ![atom](https://github.com/StephenRound/341-work/blob/master/week-02-assignment/screenshot.png)
 
 
 
