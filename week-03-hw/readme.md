@@ -7,6 +7,7 @@ I bought the big, fun, colorful book of HTML teachings required for this class, 
 
 The first website assignment was simple enough, the only trouble here came in remembering to set up the doctype and head and body tags. After that, throwing everything between paragraph and heading tags made the website. Pretty basic stuff as far as HTML goes.
 
+
 #### Extras
 Example of a basic HTML website setup, similar to the class example.
 
