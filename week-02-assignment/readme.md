@@ -28,7 +28,7 @@ Nick Moles 50
   4. uploaded examples up to github.com through the git shell
 
 
-  ## Miscellaneous
+## Miscellaneous
 
   ```html
   <html>
