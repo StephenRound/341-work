@@ -27,16 +27,16 @@ Ah, nostalgia. I grew up with the Internet. These barebones html websites we bui
 
 But enough about all that. Let's look at Google. I remember when Google was released around 2000. I had no idea what it was, but it was something the grown-ups were talking about.
 
-![Google then]()
+![Google then](https://github.com/StephenRound/341-work/blob/master/week-04-hw/screens/googlebeta.png)
 I never got to see the beta, but this is about the earliest I could find where it still looks like Google. The code is pretty basic, but what could you expect? Programming was a simpler art in '98.
 
-![Google now]()
+![Google now](https://github.com/StephenRound/341-work/blob/master/week-04-hw/screens/googlenow.png)
 Our overlords today. Doesn't it seem like Google is eventually going to own everything? Maybe not. Their site and brand looks much, much cleaner and their html has quite a bit going on now.
 
 Speaking of Google, let's look at another site I remember from my youth: YouTube. Still one of the pillars of the Internet nowadays, back then I was watching kids with enough bravado to operate their parents' camera to film themselves blowing stuff up with firecrackers or video game gameplay videos where the camera was pointed at the TV, all on a nice 240p resolution.
 
-![YouTube then]()
+![YouTube then](https://github.com/StephenRound/341-work/blob/master/week-04-hw/screens/youtubebeta.png)
 Man, even the old slogan "Broadcast Yourself" is bringing back crazy nostalgia. The code is relatively tiny and so are the video thumbnails. This was back before Google owned the site, too.
 
-![YouTube now]()
+![YouTube now](https://github.com/StephenRound/341-work/blob/master/week-04-hw/screens/youtubenow.png)
 Nowadays, people can launch a career just entertaining people with videos. YouTube has come a long way, and Google buying them might have had a hand in that. The html is *monstrous* and a lot is going on to keep this media platform afloat.
