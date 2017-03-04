@@ -9,9 +9,9 @@
     <hr />
     <p><a href="https://stephenround.github.io/341-work/week-03-hw">Home</a></p>
     <hr />
-    <img src="http://stephenround.github.io/341-work/week-05-hw/imgs/pizzaleft.png" alt="Pizza" width="50" height="50">
+    <img src="http://stephenround.github.io/341-work/week-05-hw/imgs/pizzaleft.png" alt="Pizza" title="Pizza!" width="50" height="50">
     Pizza Questionnaire
-    <img src="http://stephenround.github.io/341-work/week-05-hw/imgs/pizzaright.png" alt="Pizza" width="50" height="50">
+    <img src="http://stephenround.github.io/341-work/week-05-hw/imgs/pizzaright.png" alt="Pizza" width="50" title="Pizza!" height="50">
     <hr />
     <form action="#">
       <p>Enter your name:
@@ -27,27 +27,25 @@
         </p>
         <fieldset>
           <label for="toppings">Choose your favorite toppings (regardless if you like pizza or not):</label><br />
-            <input type="checkbox" name="topping" value="cheese" checked="checked" /> Cheese <br />
-            <input type="checkbox" name="topping" value="pepperoni" /> Pepperoni <br />
-            <input type="checkbox" name="topping" value="olives" /> Olives <br />
-            <input type="checkbox" name="topping" value="peppers" /> Peppers <br />
-            <input type="checkbox" name="topping" value="pineapple" /> Pineapple <br />
-            <input type="checkbox" name="topping" value="jalapenos" /> Jalapeños <br />
-            <input type="checkbox" name="topping" value="other" /> Other (please specify):
-            <input type="text" name="otherTopping" size="14" maxlength="50" />
+            <input type="checkbox" name="toppings" value="cheese" checked="checked" /> Cheese <br />
+            <input type="checkbox" name="toppings" value="pepperoni" /> Pepperoni <br />
+            <input type="checkbox" name="toppings" value="olives" /> Olives <br />
+            <input type="checkbox" name="toppings" value="peppers" /> Peppers <br />
+            <input type="checkbox" name="toppings" value="pineapple" /> Pineapple <br />
+            <input type="checkbox" name="toppings" value="jalapenos" /> Jalapeños <br />
+            <input type="checkbox" name="toppings" value="other" /> Other (please specify):
+            <input type="text" name="otherToppings" size="14" maxlength="50" />
         </fieldset>
       </fieldset>
-      </form>
-    <hr />
-    <form action="#" method="get">
-    <p> Favorite crust? <br />
+    <fieldset>
+    <label for="crust"> Favorite crust?</label> <br />
       <select name="crust">
         <option value="normal">Normal</option>
         <option value="thin">Thin</option>
         <option value="stuffed">Stuffed</option>
         <option value="deepDish">Deep Dish</option>
       </select>
-    </p>
+    </fieldset>
   </form>
   <hr />
   <form action="https://www.pizzahut.com/#/home">
