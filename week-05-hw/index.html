@@ -10,7 +10,7 @@
     <p><a href="https://stephenround.github.io/341-work/week-03-hw">Home</a></p>
     <hr />
     <h3>Pizza Questionnaire</h3>
-    <form action="http://www.example.com/login.php">
+    <form action="#">
       <p>Enter your name:
         <input type="text" name="name" id="name" size="14" maxlength="35" autofocus required />
       </p>
@@ -19,8 +19,8 @@
       <fieldset>
         <label for="enjoy"> Do you enjoy pizza?</label>
           <br />
-          <input type="radio" name="yes" /> Yes <br />
-          <input type="radio" name="no" /> No <br />
+          <input type="radio" name="enjoy" value="yes" /> Yes <br />
+          <input type="radio" name="enjoy" value="no" /> No <br />
         </p>
         <fieldset>
           <label for="toppings">Choose your favorite toppings (regardless if you like pizza or not):</label><br />
@@ -36,7 +36,7 @@
       </fieldset>
       </form>
     <hr />
-    <form action="http://www.example.com/crust.php">
+    <form action="#" method="get">
     <p> Favorite crust? <br />
       <select name="crust">
         <option value="normal">Normal</option>
@@ -47,7 +47,7 @@
     </p>
   </form>
   <hr />
-  <form action="http://www.example.com/comments.php">
+  <form action="#" method="get">
     <p>Tell a story about your favorite pizza place (or least favorite):</p>
     <textarea name="story" cols="20" rows="4" style="min-width:100%" placeholder="Tell a story... about pizza">
 </textarea>
