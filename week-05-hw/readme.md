@@ -19,3 +19,6 @@ The last one was achieved by directing you to the Pizza Hut website when you cli
 #### Input form method id name label
 
 I'll have to keep messing around with these elements, because these were really hard to distinguish if they were working or not. They'd work regardless of what you added in the name and id tags, but not quite in the way you'd want them to unless you pushed the site online and tested it there. That's why there's so many commits for this week on my end. Half of it was on Atom's preview, the other was checking with the actual site.
+
+![lots of pushes](https://stephenround.github.io/341-work/week-05-hw/imgs/prog2.png)
+All these little dots on the line are commits. Lots of trail and error.
